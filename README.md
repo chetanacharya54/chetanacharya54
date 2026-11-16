@@ -25,9 +25,15 @@ I'm currently developing my skills in Python, JavaScript, and AI/ML while lookin
 
 ## ⚡ Tech Stack
 
-\<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode](https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode)" />
-\</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
 
 ## 🎯 Areas of Interest
 
@@ -43,14 +49,11 @@ I'm currently developing my skills in Python, JavaScript, and AI/ML while lookin
 
 ## 📊 GitHub Analytics
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=chetanacharya54&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=chetanacharya54\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="165"/>
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=chetanacharya54&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=chetanacharya54\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165"/>
-\</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetanacharya54&show_icons=true&theme=tokyonight&hide_border=true)
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=chetanacharya54&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=chetanacharya54\&theme=tokyonight\&hide_border=true)" />
-\</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetanacharya54&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chetanacharya54&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -69,14 +72,12 @@ I'm eager to learn from experienced professionals, contribute to meaningful proj
 
 ## 🤝 Connect With Me
 
-\<p align="left">   \<a href="[https://www.linkedin.com/in/chetan-acharya-95a337345/](https://www.linkedin.com/in/chetan-acharya-95a337345/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)"/>   \</a>   \<a href="[https://github.com/chetanacharya54](https://github.com/chetanacharya54)">     \<img src="[https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge\&logo=github)"/>   \</a> \</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chetan-acharya-95a337345/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/chetanacharya54)
 
 ---
 
-\<p align="center">
-&#x20; ⭐ "Dream big, keep learning, and build something meaningful."
-\</p>
+⭐ **"Dream big, keep learning, and build something meaningful."**
 
-\<p align="center">
-&#x20; Thanks for visiting my profile! 😊
-\</p>
+Thanks for visiting my profile! 😊
