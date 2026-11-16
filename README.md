@@ -49,10 +49,6 @@ I'm currently developing my skills in Python, JavaScript, and AI/ML while lookin
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetanacharya54&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetanacharya54&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chetanacharya54&theme=tokyonight&hide_border=true)
 
 ---
